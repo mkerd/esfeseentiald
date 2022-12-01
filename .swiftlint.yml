@@ -2,3 +2,6 @@ custom_rules:
   navigation_controller:
     regex: 'UINavigationController\('
     message: "Use `NavigationController` instead of `UINavigationController` to ensure content is presented in the right orientation."
+  use_int_over_int64:
+    regex: '\w+(: Int64(?!\())'
+    message: "Prefer using `Int` over `Int64` as Apple does not support 32-bit devices anymore and on 64-bit platforms, `Int` is the same size as `Int64`."
