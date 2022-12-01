@@ -14,9 +14,7 @@ public struct FeedImage: Equatable {
     public let url: URL
 
     public init(id: UUID, description: String? = nil, location: String? = nil, url: URL) {
-        let _: Int64 = 0
-        let one: Int64 = 1
-        print(one)
+        let _: Int64 = 2
         self.id = id
         self.description = description
         self.location = location

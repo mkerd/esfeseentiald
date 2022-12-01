@@ -1,24 +1,6 @@
 [
   {
     "character" : null,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableRetrieveFeedStoreSpecs.swift",
-    "line" : 12,
-    "reason" : "Line should be 120 characters or less: currently 131 characters",
-    "rule_id" : "line_length",
-    "severity" : "Error",
-    "type" : "Line Length"
-  },
-  {
-    "character" : null,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableRetrieveFeedStoreSpecs.swift",
-    "line" : 16,
-    "reason" : "Line should be 120 characters or less: currently 149 characters",
-    "rule_id" : "line_length",
-    "severity" : "Error",
-    "type" : "Line Length"
-  },
-  {
-    "character" : null,
     "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
     "line" : 12,
     "reason" : "Line should be 120 characters or less: currently 131 characters",
@@ -190,18 +172,18 @@
   },
   {
     "character" : null,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableDeleteFeedStoreSpecs.swift",
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableRetrieveFeedStoreSpecs.swift",
     "line" : 12,
-    "reason" : "Line should be 120 characters or less: currently 128 characters",
+    "reason" : "Line should be 120 characters or less: currently 131 characters",
     "rule_id" : "line_length",
     "severity" : "Error",
     "type" : "Line Length"
   },
   {
     "character" : null,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableDeleteFeedStoreSpecs.swift",
-    "line" : 18,
-    "reason" : "Line should be 120 characters or less: currently 146 characters",
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableRetrieveFeedStoreSpecs.swift",
+    "line" : 16,
+    "reason" : "Line should be 120 characters or less: currently 149 characters",
     "rule_id" : "line_length",
     "severity" : "Error",
     "type" : "Line Length"
@@ -225,9 +207,45 @@
     "type" : "Line Length"
   },
   {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableDeleteFeedStoreSpecs.swift",
+    "line" : 12,
+    "reason" : "Line should be 120 characters or less: currently 128 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableDeleteFeedStoreSpecs.swift",
+    "line" : 18,
+    "reason" : "Line should be 120 characters or less: currently 146 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
     "character" : 5,
     "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/ValidateFeedCacheUseCaseTests.swift",
     "line" : 89,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/CacheFeedUseCaseTests.swift",
+    "line" : 107,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/CacheFeedUseCaseTests.swift",
+    "line" : 120,
     "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
     "rule_id" : "opening_brace",
     "severity" : "Error",
@@ -252,22 +270,13 @@
     "type" : "Force Try"
   },
   {
-    "character" : 5,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/CacheFeedUseCaseTests.swift",
-    "line" : 107,
-    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
-    "rule_id" : "opening_brace",
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/Helpers\/FeedCacheTestHelpers.swift",
+    "line" : 13,
+    "reason" : "Line should be 120 characters or less: currently 128 characters",
+    "rule_id" : "line_length",
     "severity" : "Error",
-    "type" : "Opening Brace Spacing"
-  },
-  {
-    "character" : 5,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/CacheFeedUseCaseTests.swift",
-    "line" : 120,
-    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
-    "rule_id" : "opening_brace",
-    "severity" : "Error",
-    "type" : "Opening Brace Spacing"
+    "type" : "Line Length"
   },
   {
     "character" : 5,
@@ -288,13 +297,58 @@
     "type" : "Opening Brace Spacing"
   },
   {
+    "character" : 16,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
+    "line" : 202,
+    "reason" : "Variable name should be between 3 and 40 characters long: 'e'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
     "character" : null,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/Helpers\/FeedCacheTestHelpers.swift",
-    "line" : 13,
-    "reason" : "Line should be 120 characters or less: currently 128 characters",
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
+    "line" : 52,
+    "reason" : "Line should be 120 characters or less: currently 124 characters",
     "rule_id" : "line_length",
     "severity" : "Error",
     "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
+    "line" : 53,
+    "reason" : "Line should be 120 characters or less: currently 124 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
+    "line" : 103,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
+    "line" : 119,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
+    "line" : 135,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
   },
   {
     "character" : 18,
@@ -376,60 +430,6 @@
     "rule_id" : "trailing_comma",
     "severity" : "Error",
     "type" : "Trailing Comma"
-  },
-  {
-    "character" : 16,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
-    "line" : 202,
-    "reason" : "Variable name should be between 3 and 40 characters long: 'e'",
-    "rule_id" : "identifier_name",
-    "severity" : "Error",
-    "type" : "Identifier Name"
-  },
-  {
-    "character" : null,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
-    "line" : 52,
-    "reason" : "Line should be 120 characters or less: currently 124 characters",
-    "rule_id" : "line_length",
-    "severity" : "Error",
-    "type" : "Line Length"
-  },
-  {
-    "character" : null,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
-    "line" : 53,
-    "reason" : "Line should be 120 characters or less: currently 124 characters",
-    "rule_id" : "line_length",
-    "severity" : "Error",
-    "type" : "Line Length"
-  },
-  {
-    "character" : 5,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
-    "line" : 103,
-    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
-    "rule_id" : "opening_brace",
-    "severity" : "Error",
-    "type" : "Opening Brace Spacing"
-  },
-  {
-    "character" : 5,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
-    "line" : 119,
-    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
-    "rule_id" : "opening_brace",
-    "severity" : "Error",
-    "type" : "Opening Brace Spacing"
-  },
-  {
-    "character" : 5,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
-    "line" : 135,
-    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
-    "rule_id" : "opening_brace",
-    "severity" : "Error",
-    "type" : "Opening Brace Spacing"
   },
   {
     "character" : null,
@@ -588,15 +588,6 @@
     "character" : 13,
     "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeed\/FeedFeature\/FeedImage.swift",
     "line" : 17,
-    "reason" : "Prefer using `Int` over `Int64` as Apple does not support 32-bit devices anymore and on 64-bit platforms, `Int` is the same size as `Int64`.",
-    "rule_id" : "use_int_over_int64",
-    "severity" : "Error",
-    "type" : "use_int_over_int64"
-  },
-  {
-    "character" : 13,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeed\/FeedFeature\/FeedImage.swift",
-    "line" : 18,
     "reason" : "Prefer using `Int` over `Int64` as Apple does not support 32-bit devices anymore and on 64-bit platforms, `Int` is the same size as `Int64`.",
     "rule_id" : "use_int_over_int64",
     "severity" : "Error",
