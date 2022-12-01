@@ -1,0 +1,1325 @@
+[
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/Helpers\/FeedUIIntegrationTests+LoaderSpy.swift",
+    "line" : 49,
+    "reason" : "Line should be 120 characters or less: currently 130 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/Helpers\/FeedUIIntegrationTests+LoaderSpy.swift",
+    "line" : 36,
+    "reason" : "Types should be nested at most 1 level deep",
+    "rule_id" : "nesting",
+    "severity" : "Error",
+    "type" : "Nesting"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/Helpers\/FeedUIIntegrationTests+LoaderSpy.swift",
+    "line" : 36,
+    "reason" : "Types should be nested at most 1 level deep",
+    "rule_id" : "nesting",
+    "severity" : "Error",
+    "type" : "Nesting"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/Helpers\/FeedUIIntegrationTests+LoaderSpy.swift",
+    "line" : 36,
+    "reason" : "Types should be nested at most 1 level deep",
+    "rule_id" : "nesting",
+    "severity" : "Error",
+    "type" : "Nesting"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/Helpers\/FeedUIIntegrationTests+LoaderSpy.swift",
+    "line" : 36,
+    "reason" : "Types should be nested at most 1 level deep",
+    "rule_id" : "nesting",
+    "severity" : "Error",
+    "type" : "Nesting"
+  },
+  {
+    "character" : 33,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/Helpers\/FeedUIIntegrationTests+LoaderSpy.swift",
+    "line" : 16,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedPresentation\/FeedLocalizationTests.swift",
+    "line" : 26,
+    "reason" : "Line should be 120 characters or less: currently 124 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedPresentation\/FeedLocalizationTests.swift",
+    "line" : 36,
+    "reason" : "Line should be 120 characters or less: currently 129 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedPresentation\/FeedLocalizationTests.swift",
+    "line" : 50,
+    "reason" : "Line should be 120 characters or less: currently 150 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedPresentation\/FeedLocalizationTests.swift",
+    "line" : 57,
+    "reason" : "Line should be 120 characters or less: currently 124 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 50,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/Helpers\/FeedViewController+TestHelpers.swift",
+    "line" : 35,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/Helpers\/FeedUIIntegrationTests+Assertions.swift",
+    "line" : 13,
+    "reason" : "Line should be 120 characters or less: currently 131 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/Helpers\/FeedUIIntegrationTests+Assertions.swift",
+    "line" : 16,
+    "reason" : "Line should be 120 characters or less: currently 134 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/Helpers\/FeedUIIntegrationTests+Assertions.swift",
+    "line" : 24,
+    "reason" : "Line should be 120 characters or less: currently 154 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/Helpers\/FeedUIIntegrationTests+Assertions.swift",
+    "line" : 30,
+    "reason" : "Line should be 200 characters or less: currently 201 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/Helpers\/FeedUIIntegrationTests+Assertions.swift",
+    "line" : 31,
+    "reason" : "Line should be 200 characters or less: currently 254 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/Helpers\/FeedUIIntegrationTests+Assertions.swift",
+    "line" : 32,
+    "reason" : "Line should be 200 characters or less: currently 269 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 35,
+    "reason" : "Line should be 120 characters or less: currently 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 45,
+    "reason" : "Line should be 120 characters or less: currently 124 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 98,
+    "reason" : "Line should be 120 characters or less: currently 139 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 101,
+    "reason" : "Line should be 120 characters or less: currently 153 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 112,
+    "reason" : "Line should be 120 characters or less: currently 141 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 115,
+    "reason" : "Line should be 120 characters or less: currently 153 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 118,
+    "reason" : "Line should be 120 characters or less: currently 172 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 131,
+    "reason" : "Line should be 120 characters or less: currently 134 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 132,
+    "reason" : "Line should be 120 characters or less: currently 135 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 135,
+    "reason" : "Line should be 120 characters or less: currently 171 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 136,
+    "reason" : "Line should be 120 characters or less: currently 135 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 139,
+    "reason" : "Line should be 120 characters or less: currently 171 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 140,
+    "reason" : "Line should be 120 characters or less: currently 167 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 153,
+    "reason" : "Line should be 120 characters or less: currently 138 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 154,
+    "reason" : "Line should be 120 characters or less: currently 139 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 159,
+    "reason" : "Line should be 120 characters or less: currently 139 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 177,
+    "reason" : "Line should be 120 characters or less: currently 147 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 178,
+    "reason" : "Line should be 120 characters or less: currently 149 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 181,
+    "reason" : "Line should be 120 characters or less: currently 148 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 182,
+    "reason" : "Line should be 120 characters or less: currently 149 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 185,
+    "reason" : "Line should be 120 characters or less: currently 148 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 186,
+    "reason" : "Line should be 120 characters or less: currently 150 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 196,
+    "reason" : "Line should be 120 characters or less: currently 147 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 199,
+    "reason" : "Line should be 120 characters or less: currently 148 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 212,
+    "reason" : "Line should be 120 characters or less: currently 130 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 218,
+    "reason" : "Line should be 120 characters or less: currently 135 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 222,
+    "reason" : "Line should be 120 characters or less: currently 148 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 234,
+    "reason" : "Line should be 120 characters or less: currently 129 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 237,
+    "reason" : "Line should be 120 characters or less: currently 142 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 248,
+    "reason" : "Line should be 120 characters or less: currently 146 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 252,
+    "reason" : "Line should be 120 characters or less: currently 158 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 256,
+    "reason" : "Line should be 120 characters or less: currently 177 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOSTests\/FeedUI\/FeedUIIntegrationTests.swift",
+    "line" : 309,
+    "reason" : "Line should be 120 characters or less: currently 142 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 51,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedAPIEndToEndTests\/EssentialFeedAPIEndToEndTests.swift",
+    "line" : 68,
+    "reason" : "Collection literals should not have trailing commas.",
+    "rule_id" : "trailing_comma",
+    "severity" : "Error",
+    "type" : "Trailing Comma"
+  },
+  {
+    "character" : 28,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedAPIEndToEndTests\/EssentialFeedAPIEndToEndTests.swift",
+    "line" : 81,
+    "reason" : "Collection literals should not have trailing commas.",
+    "rule_id" : "trailing_comma",
+    "severity" : "Error",
+    "type" : "Trailing Comma"
+  },
+  {
+    "character" : 25,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedAPIEndToEndTests\/EssentialFeedAPIEndToEndTests.swift",
+    "line" : 94,
+    "reason" : "Collection literals should not have trailing commas.",
+    "rule_id" : "trailing_comma",
+    "severity" : "Error",
+    "type" : "Trailing Comma"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedPresentation\/FeedPresenter.swift",
+    "line" : 22,
+    "reason" : "Line should be 120 characters or less: currently 147 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Composers\/FeedViewAdapter.swift",
+    "line" : 21,
+    "reason" : "Line should be 120 characters or less: currently 164 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Composers\/MainQueueDispatchDecorator.swift",
+    "line" : 35,
+    "reason" : "Line should be 120 characters or less: currently 126 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 76,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Composers\/FeedUIComposer.swift",
+    "line" : 25,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Composers\/FeedUIComposer.swift",
+    "line" : 15,
+    "reason" : "Line should be 120 characters or less: currently 136 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Composers\/FeedUIComposer.swift",
+    "line" : 17,
+    "reason" : "Line should be 120 characters or less: currently 152 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Composers\/FeedUIComposer.swift",
+    "line" : 18,
+    "reason" : "Line should be 120 characters or less: currently 140 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Composers\/FeedUIComposer.swift",
+    "line" : 22,
+    "reason" : "Line should be 120 characters or less: currently 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 1,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Controllers\/FeedImageCellController.swift",
+    "line" : 10,
+    "reason" : "Delegate protocols should be class-only so they can be weakly referenced.",
+    "rule_id" : "class_delegate_protocol",
+    "severity" : "Error",
+    "type" : "Class Delegate Protocol"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Composers\/FeedImageDataLoaderPresentationAdapter.swift",
+    "line" : 10,
+    "reason" : "Line should be 120 characters or less: currently 139 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 1,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Controllers\/FeedViewController.swift",
+    "line" : 10,
+    "reason" : "Delegate protocols should be class-only so they can be weakly referenced.",
+    "rule_id" : "class_delegate_protocol",
+    "severity" : "Error",
+    "type" : "Class Delegate Protocol"
+  },
+  {
+    "character" : 17,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Controllers\/FeedViewController.swift",
+    "line" : 24,
+    "reason" : "Use `NavigationController` instead of `UINavigationController` to ensure content is presented in the right orientation.",
+    "rule_id" : "navigation_controller",
+    "severity" : "Error",
+    "type" : "navigation_controller"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Controllers\/FeedViewController.swift",
+    "line" : 62,
+    "reason" : "Line should be 120 characters or less: currently 133 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Controllers\/FeedViewController.swift",
+    "line" : 24,
+    "reason" : "Prefer `_ = foo()` over `let _ = foo()` when discarding a result from a function.",
+    "rule_id" : "redundant_discardable_let",
+    "severity" : "Error",
+    "type" : "Redundant Discardable Let"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Views\/FeedImageCell.swift",
+    "line" : 24,
+    "reason" : "Files should have a single trailing newline.",
+    "rule_id" : "trailing_newline",
+    "severity" : "Error",
+    "type" : "Trailing Newline"
+  },
+  {
+    "character" : 69,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Views\/UITableView+Dequeueing.swift",
+    "line" : 13,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeediOS\/FeedUI\/Views\/UIView+Shimmering.swift",
+    "line" : 12,
+    "reason" : "Computed properties should declare first the getter and then the setter.",
+    "rule_id" : "computed_accessors_order",
+    "severity" : "Error",
+    "type" : "Computed Accessors Order"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 12,
+    "reason" : "Line should be 120 characters or less: currently 131 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 16,
+    "reason" : "Line should be 120 characters or less: currently 128 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 20,
+    "reason" : "Line should be 120 characters or less: currently 134 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 28,
+    "reason" : "Line should be 120 characters or less: currently 142 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 36,
+    "reason" : "Line should be 120 characters or less: currently 125 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 41,
+    "reason" : "Line should be 120 characters or less: currently 131 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 44,
+    "reason" : "Line should be 120 characters or less: currently 128 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 50,
+    "reason" : "Line should be 120 characters or less: currently 131 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 53,
+    "reason" : "Line should be 120 characters or less: currently 147 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 62,
+    "reason" : "Line should be 120 characters or less: currently 129 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 65,
+    "reason" : "Line should be 120 characters or less: currently 134 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 68,
+    "reason" : "Line should be 120 characters or less: currently 124 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 74,
+    "reason" : "Line should be 120 characters or less: currently 131 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 78,
+    "reason" : "Line should be 120 characters or less: currently 137 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 81,
+    "reason" : "Line should be 120 characters or less: currently 149 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 156,
+    "reason" : "Line should be 120 characters or less: currently 159 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 135,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FeedStoreSpecs.swift",
+    "line" : 144,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/FeedStoreSpecs.swift",
+    "line" : 43,
+    "reason" : "Line should be 120 characters or less: currently 127 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableRetrieveFeedStoreSpecs.swift",
+    "line" : 12,
+    "reason" : "Line should be 120 characters or less: currently 131 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableRetrieveFeedStoreSpecs.swift",
+    "line" : 16,
+    "reason" : "Line should be 120 characters or less: currently 149 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableDeleteFeedStoreSpecs.swift",
+    "line" : 12,
+    "reason" : "Line should be 120 characters or less: currently 128 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableDeleteFeedStoreSpecs.swift",
+    "line" : 18,
+    "reason" : "Line should be 120 characters or less: currently 146 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableInsertFeedStoreSpecs.swift",
+    "line" : 12,
+    "reason" : "Line should be 120 characters or less: currently 129 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableInsertFeedStoreSpecs.swift",
+    "line" : 20,
+    "reason" : "Line should be 120 characters or less: currently 147 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/ValidateFeedCacheUseCaseTests.swift",
+    "line" : 89,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/CacheFeedUseCaseTests.swift",
+    "line" : 107,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/CacheFeedUseCaseTests.swift",
+    "line" : 120,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/CodableFeedStoreTests.swift",
+    "line" : 162,
+    "reason" : "Line should be 120 characters or less: currently 140 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/LoadFeedFromCacheUseCaseTests.swift",
+    "line" : 148,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/LoadFeedFromCacheUseCaseTests.swift",
+    "line" : 161,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 19,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/CoreDataFeedStoreTests.swift",
+    "line" : 87,
+    "reason" : "Force tries should be avoided.",
+    "rule_id" : "force_try",
+    "severity" : "Error",
+    "type" : "Force Try"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/Helpers\/FeedCacheTestHelpers.swift",
+    "line" : 13,
+    "reason" : "Line should be 120 characters or less: currently 128 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 18,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/LoadFeedFromRemoteUseCaseTests.swift",
+    "line" : 96,
+    "reason" : "When using trailing closures, empty parentheses should be avoided after the method call.",
+    "rule_id" : "empty_parentheses_with_trailing_closure",
+    "severity" : "Error",
+    "type" : "Empty Parentheses with Trailing Closure"
+  },
+  {
+    "character" : 16,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/LoadFeedFromRemoteUseCaseTests.swift",
+    "line" : 135,
+    "reason" : "Force tries should be avoided.",
+    "rule_id" : "force_try",
+    "severity" : "Error",
+    "type" : "Force Try"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/LoadFeedFromRemoteUseCaseTests.swift",
+    "line" : 106,
+    "reason" : "Line should be 120 characters or less: currently 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/LoadFeedFromRemoteUseCaseTests.swift",
+    "line" : 150,
+    "reason" : "Line should be 120 characters or less: currently 124 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/LoadFeedFromRemoteUseCaseTests.swift",
+    "line" : 108,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/LoadFeedFromRemoteUseCaseTests.swift",
+    "line" : 121,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/LoadFeedFromRemoteUseCaseTests.swift",
+    "line" : 143,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/LoadFeedFromRemoteUseCaseTests.swift",
+    "line" : 187,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 45,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/LoadFeedFromRemoteUseCaseTests.swift",
+    "line" : 127,
+    "reason" : "Collection literals should not have trailing commas.",
+    "rule_id" : "trailing_comma",
+    "severity" : "Error",
+    "type" : "Trailing Comma"
+  },
+  {
+    "character" : 16,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
+    "line" : 202,
+    "reason" : "Variable name should be between 3 and 40 characters long: 'e'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
+    "line" : 52,
+    "reason" : "Line should be 120 characters or less: currently 124 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
+    "line" : 53,
+    "reason" : "Line should be 120 characters or less: currently 124 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
+    "line" : 103,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
+    "line" : 119,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedAPI\/URLSessionHTTPClientTests.swift",
+    "line" : 135,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/FeedImageViewModel+PrototypeData.swift",
+    "line" : 14,
+    "reason" : "Line should be 200 characters or less: currently 346 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/FeedImageViewModel+PrototypeData.swift",
+    "line" : 34,
+    "reason" : "Line should be 200 characters or less: currently 219 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 18,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/FeedImageViewModel+PrototypeData.swift",
+    "line" : 42,
+    "reason" : "Collection literals should not have trailing commas.",
+    "rule_id" : "trailing_comma",
+    "severity" : "Error",
+    "type" : "Trailing Comma"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/AppDelegate.swift",
+    "line" : 15,
+    "reason" : "Line should be 120 characters or less: currently 145 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/AppDelegate.swift",
+    "line" : 22,
+    "reason" : "Line should be 120 characters or less: currently 179 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/AppDelegate.swift",
+    "line" : 30,
+    "reason" : "Line should be 120 characters or less: currently 157 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/AppDelegate.swift",
+    "line" : 36,
+    "reason" : "Files should have a single trailing newline.",
+    "rule_id" : "trailing_newline",
+    "severity" : "Error",
+    "type" : "Trailing Newline"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/AppDelegate.swift",
+    "line" : 14,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 3.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Error",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/AppDelegate.swift",
+    "line" : 34,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Error",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : 99,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/FeedViewController.swift",
+    "line" : 47,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/SceneDelegate.swift",
+    "line" : 15,
+    "reason" : "Line should be 120 characters or less: currently 127 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/SceneDelegate.swift",
+    "line" : 16,
+    "reason" : "Line should be 120 characters or less: currently 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/SceneDelegate.swift",
+    "line" : 18,
+    "reason" : "Line should be 120 characters or less: currently 147 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/SceneDelegate.swift",
+    "line" : 26,
+    "reason" : "Line should be 120 characters or less: currently 140 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/SceneDelegate.swift",
+    "line" : 52,
+    "reason" : "Files should have a single trailing newline.",
+    "rule_id" : "trailing_newline",
+    "severity" : "Error",
+    "type" : "Trailing Newline"
+  },
+  {
+    "character" : 19,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/SceneDelegate.swift",
+    "line" : 19,
+    "reason" : "Prefer `!= nil` over `let _ =`",
+    "rule_id" : "unused_optional_binding",
+    "severity" : "Error",
+    "type" : "Unused Optional Binding"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/SceneDelegate.swift",
+    "line" : 14,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Error",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/SceneDelegate.swift",
+    "line" : 50,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Error",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeed\/FeedCache\/LocalFeedLoader.swift",
+    "line" : 36,
+    "reason" : "Line should be 120 characters or less: currently 128 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeed\/FeedCache\/LocalFeedLoader.swift",
+    "line" : 53,
+    "reason" : "Line should be 120 characters or less: currently 136 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeed\/FeedCache\/LocalFeedLoader.swift",
+    "line" : 69,
+    "reason" : "Line should be 120 characters or less: currently 137 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeed\/FeedCache\/Infrastructure\/Codable\/CodableFeedStore.swift",
+    "line" : 39,
+    "reason" : "Line should be 120 characters or less: currently 138 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 31,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeed\/FeedAPI\/URLSessionHTTPClient.swift",
+    "line" : 24,
+    "reason" : "Variable name should be between 3 and 40 characters long: 'd'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 45,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeed\/FeedAPI\/URLSessionHTTPClient.swift",
+    "line" : 24,
+    "reason" : "Variable name should be between 3 and 40 characters long: 'r'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 13,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeed\/FeedAPI\/FeedItemsMapper.swift",
+    "line" : 16,
+    "reason" : "Variable name should only contain alphanumeric characters: 'OK_200'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeed\/FeedAPI\/RemoteFeedLoader.swift",
+    "line" : 42,
+    "reason" : "Else and catch should be on the same line, one space after the previous declaration.",
+    "rule_id" : "statement_position",
+    "severity" : "Error",
+    "type" : "Statement Position"
+  },
+  {
+    "character" : 21,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedCacheIntegrationTests\/EssentialFeedCacheIntegrationTests.swift",
+    "line" : 59,
+    "reason" : "Force tries should be avoided.",
+    "rule_id" : "force_try",
+    "severity" : "Error",
+    "type" : "Force Try"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedCacheIntegrationTests\/EssentialFeedCacheIntegrationTests.swift",
+    "line" : 66,
+    "reason" : "Line should be 120 characters or less: currently 127 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedCacheIntegrationTests\/EssentialFeedCacheIntegrationTests.swift",
+    "line" : 80,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  }
+]
