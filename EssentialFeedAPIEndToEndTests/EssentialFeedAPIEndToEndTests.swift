@@ -8,9 +8,8 @@
 import XCTest
 import EssentialFeed
 
-class EssentialFeedAPIEndToEndTests: XCTestCase {
-
-    func test_endToEndServerGETFeedResult_matchesFixedTestAccountData() {
+final class EssentialFeedAPIEndToEndTests: XCTestCase {
+    func testE2EServerGETFeedResultMatchesFixedTestAccountData() {
         let capturedResult = self.getResult()
         switch capturedResult {
         case .success(let images):
@@ -99,5 +98,4 @@ class EssentialFeedAPIEndToEndTests: XCTestCase {
     private func url(at index: Int) -> URL {
         return URL(string: "https://url-\(index+1).com")!
     }
-
 }
