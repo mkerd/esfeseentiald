@@ -1,0 +1,4 @@
+custom_rules:
+  navigation_controller:
+    regex: 'UINavigationController\('
+    message: "Use `NavigationController` instead of `UINavigationController` to ensure content is presented in the right orientation."
