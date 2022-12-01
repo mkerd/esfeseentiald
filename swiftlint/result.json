@@ -1,32 +1,5 @@
 [
   {
-    "character" : 51,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedAPIEndToEndTests\/EssentialFeedAPIEndToEndTests.swift",
-    "line" : 69,
-    "reason" : "Collection literals should not have trailing commas.",
-    "rule_id" : "trailing_comma",
-    "severity" : "Error",
-    "type" : "Trailing Comma"
-  },
-  {
-    "character" : 28,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedAPIEndToEndTests\/EssentialFeedAPIEndToEndTests.swift",
-    "line" : 82,
-    "reason" : "Collection literals should not have trailing commas.",
-    "rule_id" : "trailing_comma",
-    "severity" : "Error",
-    "type" : "Trailing Comma"
-  },
-  {
-    "character" : 25,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedAPIEndToEndTests\/EssentialFeedAPIEndToEndTests.swift",
-    "line" : 95,
-    "reason" : "Collection literals should not have trailing commas.",
-    "rule_id" : "trailing_comma",
-    "severity" : "Error",
-    "type" : "Trailing Comma"
-  },
-  {
     "character" : null,
     "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableRetrieveFeedStoreSpecs.swift",
     "line" : 12,
@@ -40,15 +13,6 @@
     "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableRetrieveFeedStoreSpecs.swift",
     "line" : 16,
     "reason" : "Line should be 120 characters or less: currently 149 characters",
-    "rule_id" : "line_length",
-    "severity" : "Error",
-    "type" : "Line Length"
-  },
-  {
-    "character" : null,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/FeedStoreSpecs.swift",
-    "line" : 43,
-    "reason" : "Line should be 120 characters or less: currently 127 characters",
     "rule_id" : "line_length",
     "severity" : "Error",
     "type" : "Line Length"
@@ -216,31 +180,13 @@
     "type" : "Opening Brace Spacing"
   },
   {
-    "character" : 5,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/ValidateFeedCacheUseCaseTests.swift",
-    "line" : 89,
-    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
-    "rule_id" : "opening_brace",
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/FeedStoreSpecs.swift",
+    "line" : 43,
+    "reason" : "Line should be 120 characters or less: currently 127 characters",
+    "rule_id" : "line_length",
     "severity" : "Error",
-    "type" : "Opening Brace Spacing"
-  },
-  {
-    "character" : 5,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/CacheFeedUseCaseTests.swift",
-    "line" : 107,
-    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
-    "rule_id" : "opening_brace",
-    "severity" : "Error",
-    "type" : "Opening Brace Spacing"
-  },
-  {
-    "character" : 5,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/CacheFeedUseCaseTests.swift",
-    "line" : 120,
-    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
-    "rule_id" : "opening_brace",
-    "severity" : "Error",
-    "type" : "Opening Brace Spacing"
+    "type" : "Line Length"
   },
   {
     "character" : null,
@@ -262,12 +208,66 @@
   },
   {
     "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableInsertFeedStoreSpecs.swift",
+    "line" : 12,
+    "reason" : "Line should be 120 characters or less: currently 129 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableInsertFeedStoreSpecs.swift",
+    "line" : 20,
+    "reason" : "Line should be 120 characters or less: currently 147 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/ValidateFeedCacheUseCaseTests.swift",
+    "line" : 89,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
     "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/CodableFeedStoreTests.swift",
     "line" : 162,
     "reason" : "Line should be 120 characters or less: currently 140 characters",
     "rule_id" : "line_length",
     "severity" : "Error",
     "type" : "Line Length"
+  },
+  {
+    "character" : 19,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/CoreDataFeedStoreTests.swift",
+    "line" : 87,
+    "reason" : "Force tries should be avoided.",
+    "rule_id" : "force_try",
+    "severity" : "Error",
+    "type" : "Force Try"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/CacheFeedUseCaseTests.swift",
+    "line" : 107,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/CacheFeedUseCaseTests.swift",
+    "line" : 120,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
   },
   {
     "character" : 5,
@@ -286,33 +286,6 @@
     "rule_id" : "opening_brace",
     "severity" : "Error",
     "type" : "Opening Brace Spacing"
-  },
-  {
-    "character" : null,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableInsertFeedStoreSpecs.swift",
-    "line" : 12,
-    "reason" : "Line should be 120 characters or less: currently 129 characters",
-    "rule_id" : "line_length",
-    "severity" : "Error",
-    "type" : "Line Length"
-  },
-  {
-    "character" : null,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/FeedStoreSpecs\/XCTestCase+FailableInsertFeedStoreSpecs.swift",
-    "line" : 20,
-    "reason" : "Line should be 120 characters or less: currently 147 characters",
-    "rule_id" : "line_length",
-    "severity" : "Error",
-    "type" : "Line Length"
-  },
-  {
-    "character" : 19,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedTests\/FeedCache\/CoreDataFeedStoreTests.swift",
-    "line" : 87,
-    "reason" : "Force tries should be avoided.",
-    "rule_id" : "force_try",
-    "severity" : "Error",
-    "type" : "Force Try"
   },
   {
     "character" : null,
@@ -486,15 +459,6 @@
     "type" : "Trailing Comma"
   },
   {
-    "character" : 99,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/FeedViewController.swift",
-    "line" : 24,
-    "reason" : "Force casts should be avoided.",
-    "rule_id" : "force_cast",
-    "severity" : "Error",
-    "type" : "Force Cast"
-  },
-  {
     "character" : null,
     "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/AppDelegate.swift",
     "line" : 15,
@@ -621,6 +585,33 @@
     "type" : "Vertical Whitespace"
   },
   {
+    "character" : 13,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeed\/FeedFeature\/FeedImage.swift",
+    "line" : 17,
+    "reason" : "Prefer using `Int` over `Int64` as Apple does not support 32-bit devices anymore and on 64-bit platforms, `Int` is the same size as `Int64`.",
+    "rule_id" : "use_int_over_int64",
+    "severity" : "Error",
+    "type" : "use_int_over_int64"
+  },
+  {
+    "character" : 13,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeed\/FeedFeature\/FeedImage.swift",
+    "line" : 18,
+    "reason" : "Prefer using `Int` over `Int64` as Apple does not support 32-bit devices anymore and on 64-bit platforms, `Int` is the same size as `Int64`.",
+    "rule_id" : "use_int_over_int64",
+    "severity" : "Error",
+    "type" : "use_int_over_int64"
+  },
+  {
+    "character" : 99,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/Prototype\/Prototype\/FeedViewController.swift",
+    "line" : 24,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
     "character" : null,
     "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeed\/FeedCache\/LocalFeedLoader.swift",
     "line" : 36,
@@ -720,12 +711,30 @@
     "type" : "Line Length"
   },
   {
-    "character" : 13,
-    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeed\/FeedFeature\/FeedImage.swift",
-    "line" : 17,
-    "reason" : "Prefer using `Int` over `Int64` as Apple does not support 32-bit devices anymore and on 64-bit platforms, `Int` is the same size as `Int64`.",
-    "rule_id" : "use_int_over_int64",
+    "character" : 51,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedAPIEndToEndTests\/EssentialFeedAPIEndToEndTests.swift",
+    "line" : 69,
+    "reason" : "Collection literals should not have trailing commas.",
+    "rule_id" : "trailing_comma",
     "severity" : "Error",
-    "type" : "use_int_over_int64"
+    "type" : "Trailing Comma"
+  },
+  {
+    "character" : 28,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedAPIEndToEndTests\/EssentialFeedAPIEndToEndTests.swift",
+    "line" : 82,
+    "reason" : "Collection literals should not have trailing commas.",
+    "rule_id" : "trailing_comma",
+    "severity" : "Error",
+    "type" : "Trailing Comma"
+  },
+  {
+    "character" : 25,
+    "file" : "\/Users\/mkerd\/Desktop\/EssentialFeed\/EssentialFeedAPIEndToEndTests\/EssentialFeedAPIEndToEndTests.swift",
+    "line" : 95,
+    "reason" : "Collection literals should not have trailing commas.",
+    "rule_id" : "trailing_comma",
+    "severity" : "Error",
+    "type" : "Trailing Comma"
   }
 ]
