@@ -21,6 +21,7 @@ public final class FeedViewController: UITableViewController, FeedLoadingView {
     public override func viewDidLoad() {
         super.viewDidLoad()
 
+        let _ = UINavigationController()
         self.refresh()
     }
 
